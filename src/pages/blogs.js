@@ -3,9 +3,12 @@ import Navbar from './components/Navbar'
 
 export default function blogs() {
     return (
-        <div>
-        <Navbar/>
-        <h1>Blogs</h1>
+      <div className="content">
+      <Navbar/>
+      <div className="about">
+      <h3>Blogs!</h3>
+      <p>Coming soon. I promise...</p>
       </div>
+    </div>
     )
 }
