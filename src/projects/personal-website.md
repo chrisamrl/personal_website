@@ -2,7 +2,7 @@
 title: Personal Website (This site!)
 stack: React, GatsbyJS, CSS, Javascript
 slug: water-reminder
-github: https://github.com/chrisamrl/waterReminder
+github: https://github.com/chrisamrl/personal_website
 
 ---
 
