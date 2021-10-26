@@ -2,7 +2,7 @@
 title: Mini Chat App
 stack: HTML, CSS, Javascript, Node, Socket.io
 slug: water-reminder
-github: https://github.com/chrisamrl/waterReminder
+github: https://github.com/chrisamrl/web_chat_app
 
 ---
 
