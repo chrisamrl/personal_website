@@ -30,5 +30,13 @@ module.exports = {
         path: `${__dirname}/src/projects/`,
       },
     },
+
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `resume`,
+        path: `${__dirname}/src/resume/`,
+      },
+    },
   ],
 }
