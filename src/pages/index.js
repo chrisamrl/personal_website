@@ -9,6 +9,7 @@ export default function Home({data}) {
     <div className="content">
       <Navbar/>
         <div className="about">
+          <h3>UNDER CONSTRUCTION :) </h3>
           <h3>Hello there!</h3>
           <p>I'm Chris, a freshman at the University of Toronto.
           I made this website to motivate myself to learn React.
